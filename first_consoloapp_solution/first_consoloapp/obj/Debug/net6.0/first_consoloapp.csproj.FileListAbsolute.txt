@@ -1,0 +1,14 @@
+D:\c#\first_consoloapp_solution\first_consoloapp\bin\Debug\net6.0\first_consoloapp.exe
+D:\c#\first_consoloapp_solution\first_consoloapp\bin\Debug\net6.0\first_consoloapp.deps.json
+D:\c#\first_consoloapp_solution\first_consoloapp\bin\Debug\net6.0\first_consoloapp.runtimeconfig.json
+D:\c#\first_consoloapp_solution\first_consoloapp\bin\Debug\net6.0\first_consoloapp.dll
+D:\c#\first_consoloapp_solution\first_consoloapp\bin\Debug\net6.0\first_consoloapp.pdb
+D:\c#\first_consoloapp_solution\first_consoloapp\obj\Debug\net6.0\first_consoloapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\first_consoloapp_solution\first_consoloapp\obj\Debug\net6.0\first_consoloapp.AssemblyInfoInputs.cache
+D:\c#\first_consoloapp_solution\first_consoloapp\obj\Debug\net6.0\first_consoloapp.AssemblyInfo.cs
+D:\c#\first_consoloapp_solution\first_consoloapp\obj\Debug\net6.0\first_consoloapp.csproj.CoreCompileInputs.cache
+D:\c#\first_consoloapp_solution\first_consoloapp\obj\Debug\net6.0\first_consoloapp.dll
+D:\c#\first_consoloapp_solution\first_consoloapp\obj\Debug\net6.0\refint\first_consoloapp.dll
+D:\c#\first_consoloapp_solution\first_consoloapp\obj\Debug\net6.0\first_consoloapp.pdb
+D:\c#\first_consoloapp_solution\first_consoloapp\obj\Debug\net6.0\first_consoloapp.genruntimeconfig.cache
+D:\c#\first_consoloapp_solution\first_consoloapp\obj\Debug\net6.0\ref\first_consoloapp.dll
