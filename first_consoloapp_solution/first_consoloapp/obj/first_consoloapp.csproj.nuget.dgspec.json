@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#\\first_consoloapp_solution\\first_consoloapp\\first_consoloapp.csproj": {}
+    "D:\\Learning_c#\\c# Basics\\first_consoloapp_solution\\first_consoloapp\\first_consoloapp.csproj": {}
   },
   "projects": {
-    "D:\\c#\\first_consoloapp_solution\\first_consoloapp\\first_consoloapp.csproj": {
+    "D:\\Learning_c#\\c# Basics\\first_consoloapp_solution\\first_consoloapp\\first_consoloapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#\\first_consoloapp_solution\\first_consoloapp\\first_consoloapp.csproj",
+        "projectUniqueName": "D:\\Learning_c#\\c# Basics\\first_consoloapp_solution\\first_consoloapp\\first_consoloapp.csproj",
         "projectName": "first_consoloapp",
-        "projectPath": "D:\\c#\\first_consoloapp_solution\\first_consoloapp\\first_consoloapp.csproj",
+        "projectPath": "D:\\Learning_c#\\c# Basics\\first_consoloapp_solution\\first_consoloapp\\first_consoloapp.csproj",
         "packagesPath": "C:\\Users\\KRSL\\.nuget\\packages\\",
-        "outputPath": "D:\\c#\\first_consoloapp_solution\\first_consoloapp\\obj\\",
+        "outputPath": "D:\\Learning_c#\\c# Basics\\first_consoloapp_solution\\first_consoloapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KRSL\\AppData\\Roaming\\NuGet\\NuGet.Config",

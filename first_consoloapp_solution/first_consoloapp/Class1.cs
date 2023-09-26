@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +10,7 @@ namespace first_consoloapp
     {
     }
 
-    enum Days {SUN, MON};
+    enum Days { SUN, MON };
 
     struct struct1
     {
@@ -33,8 +33,11 @@ namespace first_consoloapp
             struct1 s1;
             s1.num1 = 9;
             s1.num2 = 10;
-            Console.WriteLine("{0}, {1}", s1.num1,s1.num2);
+            Console.WriteLine("{0}, {1}", s1.num1, s1.num2);
 
         }
     }
 }
+
+
+*/
